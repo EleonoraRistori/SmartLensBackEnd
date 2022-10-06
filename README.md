@@ -40,7 +40,7 @@ per specularità con l'applicativo mobile che ne utilizza la versione javascript
 Le features vengono salvate in un file .pck.
 
 
-## features_to_db.py
+### features_to_db.py
 Una volta calcolate le features è necessario l'upload su un server per consentirne l'uso lato Javascript.
 Lo script apre il file pickle precedentemente salvato ed inserisce le features nel database associandole al
 proprio id.
