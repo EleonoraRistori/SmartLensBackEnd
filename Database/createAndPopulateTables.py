@@ -1,5 +1,3 @@
-
-
 import mysql.connector
 import db_config
 import os
